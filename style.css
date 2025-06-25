@@ -1,8 +1,6 @@
-   
 body {
-    background-color: lightblue;
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(to right, #1442c0, #c50f0f);
+}
 
-}
-h{
- color: rgb(16, 15, 109);
-}
