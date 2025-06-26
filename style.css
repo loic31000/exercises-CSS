@@ -4,5 +4,5 @@ body {
   background: linear-gradient(to right, #1442c0, #c50f0f);
 }
 div {
-    border: 2px solid black;
+    border: 100px solid rgb(146, 199, 23);
 }
