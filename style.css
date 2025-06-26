@@ -3,12 +3,17 @@ body {
   margin: 0;
   background: linear-gradient(to right, #1442c0, #c50f0f);
 }
-div {
-    border: 100px solid rgb(146, 199, 23);
+.cards-container {
+    display: flex;
+    gap: 200px; /* espace entre les cartes */
+    justify-content: center;
+    margin-top: 50px;
 }
-div {
-    margin: 10px 20px 30px 40px;
-}
-div {
-    padding: 10px 15px 20px 25px;
+
+.card {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    margin: 20px;
 }
