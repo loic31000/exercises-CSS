@@ -6,3 +6,9 @@ body {
 div {
     border: 100px solid rgb(146, 199, 23);
 }
+div {
+    margin: 10px 20px 30px 40px;
+}
+div {
+    padding: 10px 15px 20px 25px;
+}
